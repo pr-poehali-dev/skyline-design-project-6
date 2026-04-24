@@ -21,9 +21,9 @@ export default function Featured() {
         </div>
       </div>
       <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1">
-        <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">Авторское видео</h3>
+        <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">Новое видео</h3>
         <p className="text-2xl lg:text-4xl mb-8 text-neutral-900 leading-tight">
-          Это моя история, рассказанная через объектив. Искренне, без прикрас — так, как я вижу мир.
+          Живой разговор с другом — без сценария, без фильтров. Просто два человека и честная беседа.
         </p>
         <a
           href="https://www.youtube.com/@евгений-к6г5ц?sub_confirmation=1"
